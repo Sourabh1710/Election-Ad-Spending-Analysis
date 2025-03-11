@@ -84,6 +84,6 @@ The correlation matrix shows the relationship between ad spend and voter turnout
 - Voter engagement is influenced by **multiple factors beyond ad spend**, making it a complex issue.
 
 ## Author
-Sourabh Sonker 
+Sourabh Sonker <br>
 Data Scientist
 
